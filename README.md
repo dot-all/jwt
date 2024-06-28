@@ -1,3 +1,3 @@
 # jwt
 
-NodeJS
+NodeJS, TypeScript, MongoDB
