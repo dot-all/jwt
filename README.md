@@ -4,4 +4,5 @@ NodeJS, TypeScript, MongoDB
 - User session
 - Cookies
 - Token
+- Payload
 - Signature
